@@ -1,2 +1,3 @@
 # JensFunctions
-php funktioner til Jens' sider
+php funktioner til Jens' sider\
+Lavet af Anders
